@@ -5,7 +5,7 @@
     "author": "A_D",
     "contact": "A_D on espernet",
     "homepage": "git.ferricyanide.solutions/A_D/goGoGameBot",
-    "factorio_version": "0.16",
+    "factorio_version": "0.17",
     "dependencies": ["base >= 0.16"],
     "description": "This mod exists to provide access to prefix-free chat for chat bridges without completely disabling achievements"
 }
